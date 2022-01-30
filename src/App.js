@@ -191,7 +191,7 @@ function App () {
 
       <div {...modleGetRootProps({ style })}>
         <input {...modleGetInputProps()} />
-        <p>這裡glb格式的模型</p>
+        <p>這裡放glb格式的模型</p>
       </div>
       {
         files.map(img => {

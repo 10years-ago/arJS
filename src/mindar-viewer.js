@@ -51,7 +51,7 @@ const MindARViewer = () => {
           position='0 0 0'
           // animation-mixer='clip: SwordAndShieldIdle'
           // gltf-model='src: url(./test5/scene.gltf)'
-          gltf-model='src: url(./a.glb)'
+          gltf-model='src: url(./kita.glb)'
         />
       </a-entity>
       {/* <a-entity mindar-image-target='targetIndex: 1'> */}
