@@ -1,5 +1,5 @@
 
 # To run
 ```
-> npm dev
+> npm run dev
 ```
